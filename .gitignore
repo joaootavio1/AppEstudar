@@ -3,3 +3,6 @@
 ################################################################################
 
 /AppEstudar/.vs/AppEstudar/v15
+/AppEstudar/AppEstudar/AppEstudar/obj
+/AppEstudar/AppEstudar/AppEstudar.Android/obj
+/AppEstudar/AppEstudar/AppEstudar.iOS/obj
